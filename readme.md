@@ -1,5 +1,5 @@
-This is the Read me file.
+This is the Readme file.
 
-This app does nothing i particular.
+This app does nothing in particular.
 
-Its sole purpose of existence is just to give Bloc a smile :)
+Its sole purpose of existence is just to give Bloc a big boner :)
